@@ -28,12 +28,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://ec2-13-49-246-146.eu-north-1.compute.amazonaws.com:8081/repository/ashok-Snapshot/</url>
+		    <url>http://13.49.246.146:8081/repository/ashok-Snapshot/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://ec2-13-49-246-146.eu-north-1.compute.amazonaws.com:8081/repository/ashok-release/</url>
+		    <url>http://13.49.246.146:8081/repository/ashok-release/</url>
 		</repository>
   	</distributionManagement>
 	
